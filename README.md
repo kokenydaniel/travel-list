@@ -1,6 +1,6 @@
+![Képernyőfotó 2023-11-10 - 13 51 09](https://github.com/kokenydaniel/travel-list/assets/129154129/03291827-1c8f-4de1-aa85-83bdfbd7a3cd)
 
-
-<h1 align="center">Travel List App ✈️🧳</h1>
+<h1 align="center">✈️ Far Away 🧳</h1>
 
 ### <h3 align="center"> [Live](https://travel-list-daniel.netlify.app)</h3>
 
